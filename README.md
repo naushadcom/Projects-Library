@@ -44,7 +44,6 @@ Have a Nice Day 🙂
 | :-------- | :------- | :-------------------------------- |
 |  [React Weather App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-weather-app) | [Have a look](https://react-weather-app-aakashvani.vercel.app/) | **ReactJS** , **Javascript** , **CSS** |
 |[Google Momentum Clone ](https://github.com/Aakashvani/momentum-clone) | [Have a look](http://momentum-clone-kappa.vercel.app/) |**ReactJs** , **Javascript**  , **Styled-Components**  |
-|  [Travel Booking App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/travel-booking-app)  | [Have a look](https://beaches-book-your-trip.vercel.app/) | **ReactJS** , **Javascript** , **TailwindCSS** |
 
 
 <hr>
@@ -53,14 +52,7 @@ Have a Nice Day 🙂
 ## MINI   PROJECTS 💡
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
-[Modern Landing Page](https://github.com/Aakashvani/react-modern-landing-page)| [Have a look](https://eggeater.netlify.app/) | **ReactJS** , **Javascript** , **TailwindCSS**|
-[TODO App](https://github.com/Aakashvani/react-todo-app) | [Have a look](https://react-todo-app-six-beta.vercel.app/) | **ReactJS** , **CSS3** , **Javascript** |
-|  [Job Hunter](https://github.com/Aakashvani/job_hunter.com)| [Have a look](https://job-hunter-com.vercel.app/) | **ReactJS** , **TailwindCSS** |
-|  [React Counter App](https://github.com/Aakashvani/react-counter)| [Have a look](https://testing-two-mu.vercel.app/) | **ReactJS** , **Javascript** |
-|  [React Search Filter](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-search-filter)| [Have a look](https://react-search-filter-app.vercel.app/) | **React.JS** , **Chakra UI** , **Javascript** |
-|  [Typescript - e-com](https://github.com/Aakashvani/hello-typescript/tree/main/Projects/e-commerce)| [Have a look](https://e-commerce-f43q9uxjh-aakashvani.vercel.app/) | **Typescript** , **React.JS** , **Bootstrap** , **CSS** | <!--Add Typescript mini projects-->
-|  [Typescript - Todo App](https://github.com/Aakashvani/hello-typescript/tree/main/Projects/todo-app)| [Have a look](https://typescript-todo-app-one.vercel.app/) | **Typescript** , **React.JS** , **CSS** |
-|  [Tic Tac Toe](https://github.com/Aakashvani/tic-tac-toe-game)| [Have a look](http://tic-tac-toe-game-taupe.vercel.app/) | **Javascript** , **Vuejs**  , **Tailwindcss** |
+|  [Tic Tac Toe](https://github.com/naushadcom/Tic-Tac-Toe)| [Have a look](https://silly-fairy-dc3274.netlify.app/) | **Javascript**  , **Tailwindcss** |
 <hr>
 
 
