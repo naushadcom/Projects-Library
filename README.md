@@ -42,8 +42,8 @@ Have a Nice Day 🙂
 ## FRONTEND   PROJECTS ✨
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
-|  [React Weather App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-weather-app) | [Have a look](https://react-weather-app-aakashvani.vercel.app/) | **ReactJS** , **Javascript** , **CSS** |
-|[Google Momentum Clone ](https://github.com/Aakashvani/momentum-clone) | [Have a look](http://momentum-clone-kappa.vercel.app/) |**ReactJs** , **Javascript**  , **Styled-Components**  |
+|  [Little Ecom](https://github.com/naushadcom/Little-Ecom) | [Have a look](https://little-ecom.vercel.app/) | **ReactJS** , **Javascript** , **CSS** |
+|[Currency Exchange Rates ](https://github.com/naushadcom/Currency-Exchange-Rates) | [Have a look](https://currency-exchange-rate-rosy.vercel.app/) |**ReactJs** , **Javascript**  , **Styled-Components**  |
 
 
 <hr>
@@ -53,7 +53,7 @@ Have a Nice Day 🙂
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
 |  [Tic Tac Toe](https://github.com/naushadcom/Tic-Tac-Toe)| [Have a look](https://silly-fairy-dc3274.netlify.app/) | **Javascript**  , **Tailwindcss** |
-|  [TypeScript-Todo-App](https://github.com/naushadcom/TypeScript-Todo-App)| [Have a look](https://type-script-todo-app-theta.vercel.app/) | **Javascript**  , **Tailwindcss** |
+|  [TypeScript-Todo-App](https://github.com/naushadcom/TypeScript-Todo-App)| [Have a look](https://type-script-todo-app-theta.vercel.app/) | **Javascript** , **TypeScript** , **Tailwindcss** |
 <hr>
 
 
