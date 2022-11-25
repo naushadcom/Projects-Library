@@ -8,18 +8,18 @@ If You link any project you can give that project a ⭐️ Or You can fork that 
 Have a Nice Day 🙂
 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aakash-portfolio-umber.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashvani17/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aakashvani17)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://naushad-ahamed.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naushad-ahamed-796899220/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NAUSHAD47084171)
 
 
 
 ## COLLABORATIVE   PROJECTS 👥
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
-|  [Max Fashion](https://github.com/Aakashvani/MaxFashion-Clone) | [Have a look](https://maxfashion-clone.netlify.app/) | **Javascript** , **HTML** , **CSS** |
-|  [Max Fashion](https://github.com/Aakashvani/MaxFashion-Backend) | [Have a look](https://maxfashion-clone.netlify.app/) | **ExpressJS** , **NodeJS** , **MongoDB**|
-|  [Walmart Clone](https://github.com/Aakashvani/Walmart-Clone-Unit2-) | [Have a look](https://github.com/Aakashvani/Walmart-Clone-Unit2-) | **Javascript** , **HTML** , **CSS** |
+|  [Anthropologie.com](https://github.com/naushadcom/Anthropologie-Clone) | [Have a look](https://anthropology-clone.netlify.app/) | **Reactjs** , **ES6** , **HTML** **CSS** , **JavaScript**  |
+|  [Groww App](https://github.com/naushadcom/Groww-Clone) | [Have a look](https://astounding-empanada-72ca7f.netlify.app/) | **HTML** **CSS** , **JavaScript** |
+|  [PharmEasy-clone](https://github.com/naushadcom/PharmEasy-clone) | [Have a look](https://spontaneous-gingersnap-a1ebc4.netlify.app/) | **Javascript** , **HTML** , **CSS** |
 <hr>
 
 ## SOLO  PROJECTS 🏋🏻
