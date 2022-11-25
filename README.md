@@ -17,11 +17,11 @@ Have a Nice Day 🙂
 ## COLLABORATIVE   PROJECTS 👥
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
-|  [Myfitnesspal.com](https://github.com/rajashree27/MyFitnessPal-Clone) | [Have a look](https://myfitnesspal-clone.netlify.app/) | **Reactjs**  , **ES6** , **HTML** **CSS** , **JavaScript**  |
-|  [Dermstore.com](https:https://github.com/Mendheys/lean-run-8778) | [Have a look](https://clone-dermstore.netlify.app/) | **Reactjs** , **React-Redux**, **Redux-thunk** , **ES6** , **HTML** **CSS** , **JavaScript**  |
-|  [Anthropologie.com](https://github.com/naushadcom/Anthropologie-Clone) | [Have a look](https://anthropology-clone.netlify.app/) | **Reactjs** , **ES6** , **HTML** **CSS** , **JavaScript**  |
-|  [Groww App](https://github.com/naushadcom/Groww-Clone) | [Have a look](https://astounding-empanada-72ca7f.netlify.app/) | **HTML** **CSS** , **JavaScript** |
-|  [PharmEasy-clone](https://github.com/naushadcom/PharmEasy-clone) | [Have a look](https://spontaneous-gingersnap-a1ebc4.netlify.app/) | **Javascript** , **HTML** , **CSS** |
+|  [Myfitnesspal.com](https://github.com/rajashree27/MyFitnessPal-Clone)  [ Full-stack ] | [Have a look](https://myfitnesspal-clone.netlify.app/) | **Reactjs**  , **ES6** , **HTML** **CSS** , **JavaScript**  |
+|  [Dermstore.com](https:https://github.com/Mendheys/lean-run-8778) [ Frontend ] | [Have a look](https://clone-dermstore.netlify.app/) | **Reactjs** , **React-Redux**, **Redux-thunk** , **ES6** , **HTML** **CSS** , **JavaScript**  |
+|  [Anthropologie.com](https://github.com/naushadcom/Anthropologie-Clone) [ Frontend ] | [Have a look](https://anthropology-clone.netlify.app/) | **Reactjs** , **ES6** , **HTML** **CSS** , **JavaScript**  |
+|  [Groww App](https://github.com/naushadcom/Groww-Clone) [ Frontend ] | [Have a look](https://astounding-empanada-72ca7f.netlify.app/) | **HTML** **CSS** , **JavaScript** |
+|  [PharmEasy-clone](https://github.com/naushadcom/PharmEasy-clone) [ Frontend ] | [Have a look](https://spontaneous-gingersnap-a1ebc4.netlify.app/) | **Javascript** , **HTML** , **CSS** |
 <hr>
 
 ## SOLO  PROJECTS 🏋🏻
