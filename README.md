@@ -53,6 +53,7 @@ Have a Nice Day 🙂
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
 |  [Tic Tac Toe](https://github.com/naushadcom/Tic-Tac-Toe)| [Have a look](https://silly-fairy-dc3274.netlify.app/) | **Javascript**  , **Tailwindcss** |
+|  [TypeScript-Todo-App](https://github.com/naushadcom/TypeScript-Todo-App)| [Have a look](https://type-script-todo-app-theta.vercel.app/) | **Javascript**  , **Tailwindcss** |
 <hr>
 
 
