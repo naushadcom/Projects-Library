@@ -27,14 +27,8 @@ Have a Nice Day 🙂
 ## SOLO  PROJECTS 🏋🏻
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
-|  [MERN Auth app](https://github.com/Aakashvani/mern-auth) | [Have a look](https://mern-auth-ak.netlify.app/) | **MongoDB** , **Express.JS** , **React.JS** , **Node.JS** , **Material.UI** | <!--Add MERN STACK Projects-->
-[Portfolio](https://github.com/Aakashvani/aakash-portfolio-website)  | [Have a look](https://aakash-portfolio-umber.vercel.app/) | **ReactJS** , **NextJS** , **Styled-Components** |
-|  [farfetch.com Clone](https://github.com/Aakashvani/Farfetch.com-Clone)  | [Have a look](https://fakestore-masaischool-project.netlify.app/index.html) |  **HTML** , **CSS** , **Javascript** |
-|  [URL Shortener ](https://github.com/Aakashvani/url-shortener) [ Backend ] | [Have a look](https://github.com/Aakashvani/url-shortener) | **NodeJS**, **MongoDB**, **ExpressJS** , **Ejs** |
-|  [Invoice API](https://github.com/Aakashvani/invoice-api) [ Backend ] | [Have a look](https://github.com/Aakashvani/invoice-api) | **Node.JS** , **Express.JS** , **MongoDB** |
-
-
-
+|  [BMI-Calculator](https://github.com/naushadcom/BMI-Calculator) | [Have a look](https://ubiquitous-parfait-614449.netlify.app/) | **MongoDB** , **Express.JS** , **React.JS** , **Node.JS** , **Material.UI** | <!--Add MERN STACK Projects-->
+[Portfolio](https://github.com/naushadcom/Portfolio-website)  | [Have a look](https://naushad-ahamed.netlify.app/) | **ReactJS** , **NextJS** , **Styled-Components** |
 
 
 <hr>
@@ -44,6 +38,7 @@ Have a Nice Day 🙂
 | :-------- | :------- | :-------------------------------- |
 |  [Little Ecom](https://github.com/naushadcom/Little-Ecom) | [Have a look](https://little-ecom.vercel.app/) | **ReactJS** , **Javascript** , **CSS** |
 |[Currency Exchange Rates ](https://github.com/naushadcom/Currency-Exchange-Rates) | [Have a look](https://currency-exchange-rate-rosy.vercel.app/) |**ReactJs** , **Javascript**  , **Styled-Components**  |
+
 
 
 <hr>
